@@ -100,3 +100,14 @@ body {
     color: #e74c3c;
     visibility: visible;
 }
+
+.form-control button {
+    height: 2px;
+    width: 2px;
+    margin: 2px;
+    background:black;
+}
+
+.form-control button:hover {
+    background: white;
+}
